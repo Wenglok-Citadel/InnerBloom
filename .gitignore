@@ -15,6 +15,14 @@ migrate_working_dir/
 android/key.properties
 *.jks
 
+/android/app/google-services.json
+/android/app/src/debug/google-services.json
+/android/app/src/main/google-services.json
+/android/app/src/profile/google-services.json
+
+/lib/firebase_options.dart
+
+
 # IntelliJ related
 *.iml
 *.ipr
