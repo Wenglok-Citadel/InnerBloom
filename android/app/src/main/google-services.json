@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "80492426112",
+    "project_id": "innerbloom-8455a",
+    "storage_bucket": "innerbloom-8455a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80492426112:android:76829ea862b0e2d87d8765",
+        "android_client_info": {
+          "package_name": "com.citadel.innerbloom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80492426112-sbogg3rhcuf6c6kjcm9shqpakdv80rfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.citadel.innerbloom",
+            "certificate_hash": "df6c4f127d5778ec6ebc1038c3a016011b850c8b"
+          }
+        },
+        {
+          "client_id": "80492426112-ct3k3ir7o24e1l6fbqcppcn9m4qelpcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRm4wn7gkuehGeMLSJgoyRspZB24YKu-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80492426112-ct3k3ir7o24e1l6fbqcppcn9m4qelpcv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80492426112-rpjhsb9v5r29bjpdlhgu83tfc19prfpo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.citadel.innerbloom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

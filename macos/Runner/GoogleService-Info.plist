@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>80492426112-rpjhsb9v5r29bjpdlhgu83tfc19prfpo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.80492426112-rpjhsb9v5r29bjpdlhgu83tfc19prfpo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>80492426112-sbogg3rhcuf6c6kjcm9shqpakdv80rfh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_C96gK1Jmj96wklYTJ78vGeI3xyDAEb0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>80492426112</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.citadel.innerbloom</string>
+	<key>PROJECT_ID</key>
+	<string>innerbloom-8455a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>innerbloom-8455a.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:80492426112:ios:2036c4afeb6d0a667d8765</string>
+</dict>
+</plist>
