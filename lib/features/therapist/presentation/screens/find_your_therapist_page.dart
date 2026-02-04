@@ -542,15 +542,16 @@ class _FindTherapistPageState extends State<FindTherapistPage> {
           ],
         ),
         child: Padding(
-          padding: const EdgeInsets.all(12.0),
+          padding: const EdgeInsets.all(4.0),
           child: Column(
             children: [
+              const SizedBox(height: 8),
               CircleAvatar(
-                radius: 36,
+                radius: 32,
                 backgroundImage: AssetImage(avatarPlaceholder),
                 backgroundColor: Colors.grey.shade50,
               ),
-              const SizedBox(height: 10),
+              const SizedBox(height: 4),
               Text(t.name, style: const TextStyle(fontWeight: FontWeight.w700)),
               const SizedBox(height: 4),
               Text(
