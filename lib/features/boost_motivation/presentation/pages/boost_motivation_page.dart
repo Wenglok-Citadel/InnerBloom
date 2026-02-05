@@ -37,7 +37,18 @@ class _BoostMotivationPageState extends State<BoostMotivationPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Boost Motivation'), centerTitle: true),
+      appBar: AppBar(
+        title: const Text(
+          'Boost Motivation',
+          style: TextStyle(
+            fontWeight: FontWeight.w600,
+            color: Color(0xFF2F5C52),
+          ),
+        ),
+        centerTitle: true,
+        leading: BackButton(color: Color(0xFF2F5C52)),
+
+      ),
       body: Padding(
         padding: const EdgeInsets.all(24),
         child: Column(
